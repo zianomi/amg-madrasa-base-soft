@@ -3,4 +3,4 @@ node_modules/
 cache/
 .idea/
 vendor
-.vscode
+.vscodeamg/conn/fcm-push-key.json
