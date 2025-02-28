@@ -1,7 +1,3 @@
 [submodule "amg/bundles/controls"]
 	path = amg/bundles/controls
 	url = https://zianomi@github.com/zianomi/amg-madrasa-base-soft-bundles-controls.git
-
-[submodule "amg/bundles/settings"]
-    path = amg/bundles/settings
-    url = https://zianomi@github.com/zianomi/amg-madrasa-base-soft-bundles-settings.git
