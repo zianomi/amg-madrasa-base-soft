@@ -1,0 +1,1 @@
+{"class":"Class","id_name":"Id Name","refrence":"Reference","fee_type":"Fee Type","id":"ID","name":"Name","father_name":"Father Name","section":"Section","total_fees":"Total Fees","discount":"Discount","File":"File","please_select_session_branch":"Please Select Session Branch","no_student_found":"No Student Found","no_result_found":"No Result Found"}

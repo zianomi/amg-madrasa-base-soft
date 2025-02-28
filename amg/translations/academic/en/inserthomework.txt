@@ -1,0 +1,1 @@
+{"class":"Class","date":"Date","s_no":"S#","title":"Title","subject":"Subject","view":"View","action":"Action","homework_inserted":"Homework Inserted","error_in_insertion":"Error in insertion"}

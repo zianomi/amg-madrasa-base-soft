@@ -1,0 +1,1 @@
+{"search":"Search","session":"Session","branch":"Branch","class":"Class","S#":"S#","Title":"Title","Date":"Date","Session":"Session","Branch":"Branch","Class":"Class","Subject":"Subject","Teacher":"Teacher","Action":"Action"}

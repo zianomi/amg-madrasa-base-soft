@@ -1,0 +1,1 @@
+{"exam":"Exam","branch":"Branch","exam_start_date":"Exam Start Date","exam_end_date":"Exam End Date","attand_start_date":"Attend Start Date","attand_end_date":"Attend End Date","year":"Year","display_year":"Display Year","subjects":"Subjects","numbers":"Numbers","class_id_required":"Class Id Required","error_id_id":"Error in ID"}

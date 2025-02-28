@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","class":"Class","section":"Section","date":"Date","to_date":"To Date","id":"ID","name":"Name","gender":"Gender","father_name":"Father Name","attand":"Attend","all_fields_required":"All Fields Required"}

@@ -1,0 +1,1 @@
+{"class_report":"Class Report","session":"Session","branch":"Branch","class":"Class","section":"Section","year":"Year","month":"Month","id":"ID","id_name":"ID Name"}

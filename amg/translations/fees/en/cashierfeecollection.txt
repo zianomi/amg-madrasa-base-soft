@@ -1,0 +1,1 @@
+{"date":"Date","to_date":"To Date","Cashier":"Cashier","Total":"Total","All Fields Required.":"All Fields Required."}

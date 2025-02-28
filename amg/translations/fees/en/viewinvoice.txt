@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","class":"Class","section":"Section","fee_type":"Fee Type","year":"Year","month":"Month","seriol_number":"Serial Number","id":"ID","name":"Name","father_name":"Father Name","discount":"Discount"}

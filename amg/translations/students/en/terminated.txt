@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","date":"Date","to_date":"To Date","id_name":"ID Name","id":"ID","grnumber":"GR Number","name":"Name","father_name":"Father Name","class":"Class","section":"Section","reason":"Reason","please_select_id_or_date":"Please Select ID or Date"}

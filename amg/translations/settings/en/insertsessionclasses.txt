@@ -1,0 +1,1 @@
+{"search":"Search","session":"Session","branch":"Branch","class":"Class","save":"Save","please_insert_branch":"Please select branch","please_insert_session":"Please select session","all_fields_required":"All fields are required"}

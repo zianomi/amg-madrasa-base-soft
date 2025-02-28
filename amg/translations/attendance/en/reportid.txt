@@ -1,0 +1,1 @@
+{"id_name":"ID Name","date":"Date","to_date":"To Date","name_fathername":"Name Father name","branch":"Branch","class":"Class","section":"Section","session":"Session","attand":"Attendance","total_attands":"Total Attendance","absent":"Absent","late":"Late","leave":"Leave","please_select_id_or_date":"Please Select ID Or Date"}

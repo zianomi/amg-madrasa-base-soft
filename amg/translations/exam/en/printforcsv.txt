@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","class":"Class","section":"Section","exam_name":"Exam Name","Subjects":"Subjects","gr":"Gr","name_father_name":"Name Father Name","all_fields_required":"All Fields Required","no_exam_log_inserted":"No Exam Log Inserted","no_students_found":"No Students Found","no_subject_found":"No Subject Found"}

@@ -1,0 +1,1 @@
+{"no_student_found":"No Student Found","results":"Results","branch":"Branch","class":"Class","section":"Section","session":"Session","subject":"Subject","exam":"Exam","name":"Name","numbers":"Numbers"}

@@ -1,0 +1,10 @@
+AddDefaultCharset UTF-8
+RewriteEngine on
+RewriteBase /
+Options -Indexes
+#Options +FollowSymlinks
+DirectoryIndex app.php
+
+RewriteRule ^api/schools/teachers/([a-z-]+)$ app.php?menu=ws&page=teachers&folder=$1 [QSA,L]
+RewriteRule ^api/schools/students/([a-z-]+)$ app.php?menu=ws&page=students&folder=$1 [QSA,L]
+#RewriteRule ^api/schools/teachers/([a-z-]+)$ app.php?menu=ws&page=teachers&folder=$1 [QSA,L]

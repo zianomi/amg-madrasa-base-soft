@@ -1,0 +1,1 @@
+{"from_date":"From Date","to_date":"To Date","count":"Count","id":"ID","name":"Name","father_name":"Father Name","branch":"Branch","class":"Class","section":"Section","session":"Session","counts":"Counts","note_cat":"Note Cat"}

@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","exam_name":"Exam Name","branch_title":"Branch Title","class_title":"Class Title","session_title":"Session Title","exam_title":"Exam Title","exam_start_date":"Exam Start Date","exam_end_date":"Exam End Date","attand_start_date":"Attend Start Date","attand_end_date":"Attend End Date","year":"Year","display_year":"Display Year"}

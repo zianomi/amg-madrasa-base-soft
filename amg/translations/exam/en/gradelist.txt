@@ -1,0 +1,1 @@
+{"grade_list":"Grade List","min_value":"Min Value","max_value":"Max Value","grade":"Grade","comments":"Comments"}

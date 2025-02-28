@@ -1,0 +1,92 @@
+.wraper #main {
+    margin-top: 40px;
+}
+
+#show_session_orign{cursor: pointer;}
+.customhideclass{display: none}
+
+html,
+body {
+    height: 100%;
+    /* The html and body elements cannot have any padding or margin. */
+}
+
+/* styles for layout */
+html, body {
+    height: 100%;
+}
+
+.wraper {
+    min-height: 100%;
+}
+
+
+.txtcenter{text-align: center}
+.col-center{
+  margin:0 auto;
+}
+
+
+
+
+#main {
+    overflow: auto;
+    padding-bottom: 150px; /* this needs to be bigger than footer height*/
+}
+
+#footer {
+    position: relative;
+    clear: both;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+    #footer {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+.datepicker {
+    right: auto;
+    top: 558px;
+    left: auto;
+    z-index: 10;
+}
+
+
+@media print {
+    .no-print, .no-print * {
+        display: none !important;
+    }
+
+    body * {
+        visibility: hidden;
+    }
+
+    #printReady, #printReady * {
+        visibility: visible;
+    }
+
+    #printReady {
+        position: absolute;
+        left: 3px;
+        right: 3px;
+        top: 3px;
+        bottom: 3px;
+    }
+
+    table{ width:100%!important;}
+
+    .table, .table tr, .table td, .table th {
+        border-color: black;
+    }
+
+    .page-break {
+        display: block;
+        page-break-before: always;
+        margin-top: 3px !important;
+    }
+}

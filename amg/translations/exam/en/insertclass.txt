@@ -1,0 +1,1 @@
+{"session":"Session","branch":"Branch","class":"Class","section":"Section","exam_name":"Exam Name","subject":"Subject","id":"ID","name_father_name":"Name Father Name","number":"Number","date_invalid":"Date Invalid","please_select_all_fields":"Please Select All Fields","no_students_found":"No Students Found"}

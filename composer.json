@@ -1,0 +1,14 @@
+{
+    "name": "amg/amgsol",
+    "autoload": {
+        "psr-0": {
+            "models": "amg/", "bundles": "amg/"
+        }
+    },
+    "require": {
+        "matthiasmullie/minify": "^1.3",
+        "sociallydev/spaces-api": "dev-master",
+        "kreait/firebase-php": "7.0",
+        "green-api/whatsapp-api-client-php": "^0.2.0"
+    }
+}

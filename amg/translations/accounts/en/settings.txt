@@ -1,0 +1,1 @@
+{"account_settings":"Account Settings","level_0f_accounts":"Level of accounts","please_select":"Please select","please_select_level_of_account":"Please select level of account","setting_updated":"Setting updated","updation_failed":"Updation failed"}

@@ -1,0 +1,1 @@
+{"class_modules":"Class Modules","title":"Title","position":"Position","published":"Published","created_user_id":"Created User","updated_user_id":"Updated User","created":"Created","updated":"Updated"}

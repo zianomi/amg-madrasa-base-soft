@@ -1,0 +1,6 @@
+vedor/
+node_modules/
+cache/
+.idea/
+vendor
+.vscode

@@ -1,0 +1,1 @@
+{"id_name":"ID Name","date":"Date","to_date":"To Date","id":"ID","name":"Name","gender":"Gender","fname":"Fname","grnumber":"GR Number","old_branch":"Old Branch","old_class":"Old Class","old_section":"Old Section","new_branch":"New Branch","new_class":"New Class","new_section":"New Section","please_select_id_or_date":"Please Select ID Or Date"}
