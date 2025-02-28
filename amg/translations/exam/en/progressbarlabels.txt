@@ -1,1 +1,0 @@
-{"top":"Top","middle":"Middle","low":"Low","english":"English","urdu":"Urdu","progress":"Progress","name_progress":"Name Progress","first":"First","second":"Second","third":"Third","lang":"Lang","position":"Position"}

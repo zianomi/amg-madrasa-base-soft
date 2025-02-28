@@ -1,1 +1,0 @@
-{"zone":"Zone","S#":"S#","id":"ID","name":"Name","fname":"Father name","fees":"Fees","amount":"Amount","refrence":"Reference","branch":"Branch","class":"Class","section":"Section","user":"User","action":"Action","discount_approved":"Discount Approved","discount_approve_error":"Discount Approve Error","record_deleted":"Record Deleted"}

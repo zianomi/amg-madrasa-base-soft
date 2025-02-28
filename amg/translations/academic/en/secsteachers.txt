@@ -1,1 +1,0 @@
-{"add_sections":"Add Sections","add":"Add","edit":"Edit","sections_for":"Sections for"}

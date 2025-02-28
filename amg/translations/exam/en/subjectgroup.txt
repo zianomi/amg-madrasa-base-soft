@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","Search":"Search","subject_groups":"Subject Groups","title":"Title","position":"Position","published":"Published"}

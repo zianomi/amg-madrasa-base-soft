@@ -1,1 +1,0 @@
-{"search":"Search","session":"Session","branch":"Branch","S#":"S#","Section":"Section","Time Table":"Time Table","please_insert_branch":"Please Insert Branch","please_insert_session":"Please Insert Session","all_fields_required":"All Fields Required"}

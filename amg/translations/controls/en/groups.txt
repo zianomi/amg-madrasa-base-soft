@@ -1,1 +1,0 @@
-{"groups":"Groups","title":"Title","published":"Published","position":"Position","type":"Type","roles":"Roles","add_new":"Add New"}

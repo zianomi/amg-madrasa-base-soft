@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","section":"Section","search_word":"Search Word","fields_required":"Fields Required","date_admission":"Date Admission","id":"ID","name":"Name","father_name":"Father Name","please_select_session_branch":"Please Select Session and Branch"}

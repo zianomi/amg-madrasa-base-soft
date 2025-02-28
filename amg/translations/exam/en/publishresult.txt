@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","section":"Section","exam_name":"Exam Name","id":"ID","gr":"Gr","name_father_name":"Name Father Name","branch_required":"Branch Required","class_required":"Class Required","section_required":"Section Required","session_required":"Session Required","no_students_found":"No Students Found"}

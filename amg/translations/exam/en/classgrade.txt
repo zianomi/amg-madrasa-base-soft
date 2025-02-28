@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","classes":"Classes","formula":"Formula","branch_required":"Branch Required","session_required":"Session Required","no_result_found":"No Result Found"}

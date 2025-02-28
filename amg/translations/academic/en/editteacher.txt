@@ -1,1 +1,0 @@
-{"add_teacher":"Add Teacher","name":"Name","username":"Username","password":"Password","branch":"Branch","add":"Add","edit":"Edit","name_required":"Name Required","username_required":"Username Required","password_required":"Password Required","please_select_group":"Please Select Group","inserted":"Inserted","updated":"Updated","branch_required":"Branch Required"}

@@ -1,1 +1,0 @@
-{"grade_formula":"Grade Formula","title":"Title","calculation":"Calculation","define":"Define"}

@@ -1,1 +1,0 @@
-{"users":"Users","name":"Name","username":"Username","phone_number":"Phone Number","address":"Address","group_id":"Group","published":"Published","Branch":"Branch","edit":"Edit","roles":"Roles","add_new":"Add new"}

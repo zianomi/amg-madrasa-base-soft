@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","section":"Section","id_name":"ID Name","gr_number":"GR Number","fields_required":"Fields Required","please_select_session_branch":"Please select session and Branch","id":"ID","grnumber":"GR Number","name":"Name","father_name":"Father Name"}

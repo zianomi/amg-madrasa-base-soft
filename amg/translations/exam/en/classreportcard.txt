@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","section":"Section","exam_name":"Exam Name","Template":"Template"}

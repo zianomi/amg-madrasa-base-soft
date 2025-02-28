@@ -1,1 +1,0 @@
-{"fee_type":"Fee Type","title":"Title","position":"Position","published":"Published","title_en":"Title English","duration_type":"Duration Type","gl_code":"Gl Code","created_user_id":"Created User","updated_user_id":"Updated User","created":"Created","updated":"Updated"}

@@ -1,1 +1,0 @@
-{"add_module":"Add Module","bundle":"Bundle","php_file":"Php File","published":"Published","position":"Position","main_name":"Main Name","level":"Level","extra":"Extra","parent":"Parent","sub":"Sub","add":"Add","edit":"Edit","please_insert_all_languages_label":"Please insert all languages label","php_file_required":"PHP file required","mainName_required":"Main Name Required"}

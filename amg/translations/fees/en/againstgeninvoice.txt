@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","year":"Year","month":"Month","fee_type":"Fee Type","all_fields_required":"All Fields Required","invalid_invoice_date":"Invalid Invoice Date","invoice_deleted":"Invoice Deleted"}

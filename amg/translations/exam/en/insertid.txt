@@ -1,1 +1,0 @@
-{"id":"ID","exam_name":"Exam Name","subject":"Subject","numbers":"Numbers","date_invalid":"Date Invalid","all_fields_required":"All Fields Required","no_exam_log_inserted":"No Exam Log Inserted","numbers_inserted":"Numbers Inserted"}

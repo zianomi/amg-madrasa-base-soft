@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","date":"Date","to_date":"To Date","branch_title":"Branch Title","class_title":"Class Title","gender":"Gender","session_title":"Session Title","attand":"Attend","please_select_branch_and_class":"Please Select Branch And Class"}

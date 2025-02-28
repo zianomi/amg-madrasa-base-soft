@@ -1,1 +1,0 @@
-{"branch":"Branch","date":"Date","to_date":"To Date","daily_statement":"Daily Statement","S#":"S#","collection":"Collection","deposit":"Deposit","branch_required":"Branch Required","invalid_date":"Invalid Date"}

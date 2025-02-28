@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","date":"Date","to_date":"To Date","id_name":"ID Name","id":"ID","name":"Name","father_name":"Father Name","class":"Class","section":"Section","note":"Note","roll_number":"Roll Number","grade":"Grade","numbers":"Numbers","certificate_number":"Certificate Number","please_select_id_or_date":"Please Select ID or Date"}

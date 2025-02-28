@@ -1,1 +1,0 @@
-{"session":"Session","branches":"Branches","id":"ID","class":"Class","branch_required":"Branch Required","session_required":"Session Required","no_classes_found":"No Classes Found","no_fees_found":"No Fees Found"}

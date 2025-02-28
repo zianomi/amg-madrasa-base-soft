@@ -1,1 +1,0 @@
-{"branch":"Branch","S#":"S#","ID":"ID","Name":"Name","Username":"Username","Phone number":"Phone number","Action":"Action","branch_required":"Branch Required"}

@@ -1,1 +1,0 @@
-{"english":"English","urdu":"Urdu","labels":"Labels","exam":"Exam","class":"Class","heading":"Heading","first_column":"First Column","second_column":"Second Column","lang":"Lang"}

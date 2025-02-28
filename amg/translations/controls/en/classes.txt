@@ -1,1 +1,0 @@
-{"classes":"Classes","title":"Title","position":"Position","published":"Published","class_type":"Class Type","eng_name":"English Name","short_name":"Short Name","module_id":"Module","created_user_id":"Created User","updated_user_id":"Updated User","created":"Created","updated":"Updated"}

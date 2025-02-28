@@ -1,1 +1,0 @@
-{"sessions":"Sessions","title":"Title","published":"Published","start_date":"Start Date","end_date":"End Date","created_user_id":"Created User","updated_user_id":"Updated User","created":"Created Date","updated":"Updated Date"}

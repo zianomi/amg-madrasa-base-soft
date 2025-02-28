@@ -1,1 +1,0 @@
-{"insert_note":"Insert Note","ID":"ID","fee_type":"Fee Type","year":"Year","month":"Month","date":"Date","all_fields_required":"All Fields Required","invalid_date":"Invalid Date","no_fee_defined":"No Fee Defined","invoice_generated":"Invoice Generated"}

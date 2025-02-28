@@ -1,1 +1,0 @@
-{"Day":"Day","Subjects":"Subjects","Start Time":"Start Time","End Time":"End Time","period_inserted":"Period inserted","period_already_exists":"Period already exists"}

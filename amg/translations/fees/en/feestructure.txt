@@ -1,1 +1,0 @@
-{"fee_structure":"Fee Structure","add_new":"Add New","title":"Title","position":"Position","published":"Published","branch_id":"Branch Id","class_id":"Class Id","session_id":"Session ID","fee_type_id":"Fee Type ID","fees":"Fees"}

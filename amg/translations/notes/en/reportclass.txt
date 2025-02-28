@@ -1,1 +1,0 @@
-{"session_or_date":"Session Or Date","branch":"Branch","class":"Class","sections":"Sections","note_type":"Note Type","id_name":"ID Name","id":"ID","name":"Name","father_name":"Father Name","section":"Section","session":"Session","date":"Date","detail":"Detail","category":"Category","type":"Type"}

@@ -1,1 +1,0 @@
-{"class_report":"Class Report","session":"Session","branch":"Branch","class":"Class","section":"Section","exam_name":"Exam Name"}

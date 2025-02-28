@@ -1,1 +1,0 @@
-{"insert_note":"Insert Note","ID":"ID","note_type":"Note Type","date":"Date","detail":"Detail","sms":"SMS","invalid_date":"Invalid Date","insert_id":"Insert ID","please_select_cat":"Please Select Cat","please_select_note_type":"Please Select Note Type","please_insert_detail":"Please Insert Detail","inserted":"Inserted"}

@@ -1,1 +1,0 @@
-{"count_students":"Count Students","zones":"Zones","year":"Year","month":"Month","name":"Name","operator":"Operator","count":"Count","inserted":"Inserted"}

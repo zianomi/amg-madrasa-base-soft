@@ -1,1 +1,0 @@
-{"branches":"Branches","title":"Title","position":"Position","published":"Published","short_name":"Short Name","zone_id":"Zone","branch_code":"Branch Code","branch_address":"Branch Address","branch_nazim":"Branch Head Master","branch_fone":"Branch Phone","branch_date":"Branch Formation Date"}

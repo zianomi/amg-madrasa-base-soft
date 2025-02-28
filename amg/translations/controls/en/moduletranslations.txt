@@ -1,1 +1,0 @@
-{"module":"Module","list":"List","add":"Add","edit":"Edit","delete":"Delete","print":"Print","export":"Export","translations":"Translations","branch":"Branch","error_id_required":"Error ID Required"}

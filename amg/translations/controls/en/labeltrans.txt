@@ -1,1 +1,0 @@
-{"unique_labels":"Unique Labels","label_key":"Label Key","label_title":"Label Title","lang":"Language"}

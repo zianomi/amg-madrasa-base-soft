@@ -1,1 +1,0 @@
-{"week_days":"Week days","title":"Title","position":"Position","published":"Published"}

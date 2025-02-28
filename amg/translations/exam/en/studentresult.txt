@@ -1,1 +1,0 @@
-{"student_result":"Student Result","ID":"ID","exam":"Exam","session":"Session","template":"Template"}

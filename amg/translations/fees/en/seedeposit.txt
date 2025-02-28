@@ -1,1 +1,0 @@
-{"date":"Date","to_date":"To Date","operator":"Operator","class":"Class","branch":"Branch","S#":"S#","ID":"ID","GR":"GR","Name":"Name","Father Name":"Father Name","Father Fone":"Father Fone","Class":"Class","Section":"Section","Total":"Total","please_select_date_range":"Please Select Date Range"}

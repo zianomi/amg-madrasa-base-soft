@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","Search":"Search","subject":"Subject","title":"Title","position":"Position","published":"Published","numbers":"Numbers","report_subject_id":"Report Subject","subject_group_id":"Parent Subject","branch_id":"Branch","exam_id":"Exam","id":"ID"}

@@ -1,1 +1,0 @@
-{"session":"Session","branch":"Branch","class":"Class","section":"Section","date":"Date","to_date":"To Date","attand_type":"Attend Type","quantity":"Quantity","count":"Count","all_fields_required":"All Fields Required"}

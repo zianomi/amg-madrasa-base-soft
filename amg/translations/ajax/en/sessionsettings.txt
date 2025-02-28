@@ -1,1 +1,0 @@
-{"settings":"Settings","set_branch":"Set Branch","set_session":"Set Session","save":"Save"}

@@ -1,1 +1,0 @@
-{"add_user":"Add User","name":"Name","group":"Group","username":"Username","password":"Password","add":"Add","edit":"Edit","name_required":"Name required","username_required":"Username required","password_required":"Password required","please_select_group":"Please select group","inserted":"Inserted","updated":"Updated"}
