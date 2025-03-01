@@ -4,3 +4,6 @@
 [submodule "amg/bundles/settings"]
 	path = amg/bundles/settings
 	url = https://zianomi@github.com/zianomi/amg-madrasa-base-soft-bundles-settings.git
+[submodule "amg/models"]
+	path = amg/models
+	url = https://zianomi@github.com/Amg-Solution/mad-soft-models.git
