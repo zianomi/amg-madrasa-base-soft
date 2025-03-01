@@ -7,3 +7,6 @@
 [submodule "amg/models"]
 	path = amg/models
 	url = https://zianomi@github.com/Amg-Solution/mad-soft-models.git
+[submodule "amg/libs"]
+	path = amg/libs
+	url = https://zianomi@github.com/Amg-Solution/mad-soft-libs.git
