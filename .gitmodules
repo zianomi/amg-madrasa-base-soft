@@ -10,3 +10,6 @@
 [submodule "amg/libs"]
 	path = amg/libs
 	url = https://zianomi@github.com/Amg-Solution/mad-soft-libs.git
+[submodule "web/assets"]
+	path = web/assets
+	url = https://zianomi@github.com/Amg-Solution/mad-soft-assets.git
