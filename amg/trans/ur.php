@@ -1,4 +1,24 @@
 <?php
-return [
-    'login' => 'لاگ ان'
-];
+return array(
+    "total_records" => "کل تعداد"
+,"search" => "تلاش"
+,"delete" => "حذف"
+,"del" => "حذف"
+,"action" => "عمل"
+,"edit" => "تبدیل"
+,"no_data_in_this_table_click_add_button_below" => "اس کے ٹیبل میں کوئی ڈیٹا نہیں. نیچے دیے گئے بٹن پر کلک کریں"
+,"no_fields_in_this_table" => "اس میں کوئی کالم نہیں ہے۔"
+,"print" => "پرنٹ"
+,"cancel" => "منسوخ"
+,"export" => "برآمد"
+,"enable" => "فعال"
+,"disable" => "غیر فعال"
+,"no_record_found" => "کوئی نتیجہ نہیں ملا۔"
+,"gender_one" => "بن"
+,"gender_two" => "بنت"
+,"branch" => "شاخ"
+,"equal" => "برابر"
+,"more_equal" => "برابر یا زیادہ"
+,"less_equal" => "برابر یا کم"
+,"not_equal" => "برابر نہیں"
+);

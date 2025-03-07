@@ -6,13 +6,14 @@ $amgBundle = ((isset($_GET['menu'])) && (Tools::alpha($_GET['menu']))) ? $_GET['
 $amgPhpFile = ((isset($_GET['page'])) && (Tools::alpha($_GET['page']))) ? $_GET['page'] : "";
 $amgPassedcode = ((isset($_GET['code'])) && (Tools::numeric($_GET['code']))) ? $_GET['code'] : "";
 $amgAction = ((isset($_GET['action'])) && (Tools::alpha($_GET['action']))) ? $_GET['action'] : "";
-$lang = isset($_SESSION['lang']) ? $_SESSION['lang'] : "en";
-
+$lang = $_SESSION['lang'] ?? "en";
+$transFile = require_once TRANSLATIONS . '/' . $lang . '.php';
 
 Tools::setLang($lang);
 Tools::setDirectionAuto();
 Tools::setTransDir(TRANSLATIONS);
 Tools::setLibsDir(LIBS);
+Tools::setTransData($transFile);
 
 $userId = Tools::getUserId();
 
@@ -25,14 +26,14 @@ if($amgBundle != "ws"){
 
 if(!empty($amgBundle) && !empty($amgPhpFile)){
     $phpfileToInclude = BUNDLES . DRS . $amgBundle . DRS . $amgPhpFile . ".php";
-    $transFileToInlcude = TRANSLATIONS . DRS . $amgBundle . DRS . Tools::getLang() . DRS . $amgPhpFile . ".txt";
+    //$transFileToInlcude = TRANSLATIONS . DRS . $amgBundle . DRS . Tools::getLang() . DRS . $amgPhpFile . ".txt";
     $tpl->setBundle($amgBundle);
     $tpl->setPhpFile($amgPhpFile);
     $tpl->setFileCode($amgPassedcode);
     $tpl->setFileAction($amgAction);
-    if(is_readable($transFileToInlcude)){
+    /*if(is_readable($transFileToInlcude)){
         Tools::setTransData(json_decode(file_get_contents($transFileToInlcude),true));
-    }
+    }*/
     if(is_readable($phpfileToInclude)){
         $allowedPages = $tool->excludedPages();
 
@@ -83,7 +84,7 @@ if(!empty($amgBundle) && !empty($amgPhpFile)){
     }
 }
 else{
-    $transFileToInlcude = TRANSLATIONS . DRS . "settings" . DRS . Tools::getLang() . DRS . "dashboard.txt";
-    Tools::setTransData(json_decode(file_get_contents($transFileToInlcude),true));
+    //$transFileToInlcude = TRANSLATIONS . DRS . "settings" . DRS . Tools::getLang() . DRS . "dashboard.txt";
+    //Tools::setTransData(json_decode(file_get_contents($transFileToInlcude),true));
     include_once BUNDLES . DRS . "settings" . DRS . "dashboard.php";
 }
