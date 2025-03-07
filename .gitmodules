@@ -13,3 +13,6 @@
 [submodule "web/assets"]
 	path = web/assets
 	url = https://zianomi@github.com/Amg-Solution/mad-soft-assets.git
+[submodule "amg/bundles/admin"]
+	path = amg/bundles/admin
+	url = https://zianomi@github.com/Amg-Solution/mad-bundles-admin.git
