@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . DIRECTORY_SEPARATOR . "Config.php";
+require dirname(__DIR__) . DIRECTORY_SEPARATOR . "conn" . DIRECTORY_SEPARATOR . "Config.php";
 require LIBS . DRS . "Tools.php";
 require LIBS . DRS . "Template.php";
 $tool = Tools::Instance();

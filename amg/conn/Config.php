@@ -26,6 +26,8 @@ const AJAXCRUD = WEB . "/ajax_crud/";
 
 const IS_DEDICATED = true;
 
+
+
 const FRONTSITEROOT = "C:/xampp/htdocs/zia/al-badar/parents";
 const FRONTSITECACHE = FRONTSITEROOT . "cache/ckfinder";
 const UPLFRONTSITE = FRONTSITEROOT . "/web/assets/uploads";

@@ -1,5 +1,5 @@
 <?php
-require dirname(__DIR__) . DIRECTORY_SEPARATOR . "conn" . DIRECTORY_SEPARATOR . "configuration.php";
+require_once __DIR__  . "/configuration.php";
 
 $amgBundle = ((isset($_GET['menu'])) && (Tools::alpha($_GET['menu']))) ? $_GET['menu'] : "";
 $amgPhpFile = ((isset($_GET['page'])) && (Tools::alphaMinus($_GET['page']))) ? $_GET['page'] : "";
@@ -12,6 +12,7 @@ $branch = isset($_GET['branch']) ? $tool->GetExplodedInt($_GET['branch']) : '';
 $branchName = isset($_GET['branch']) ? $tool->GetExplodedVar($_GET['branch']) : '';
 $session = isset($_GET['session']) ? $tool->GetExplodedInt($_GET['session']) : '';
 $errors = array();
+$dateTime = date("Y-m-d h:i:s");
 
 Tools::setLang($lang);
 Tools::setDirectionAuto();

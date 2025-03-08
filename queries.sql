@@ -111,3 +111,4 @@ ALTER TABLE `jb_system_modules` ADD CONSTRAINT `menu_with_parent` FOREIGN KEY (`
 
 ALTER TABLE `jb_user_branches` DROP `updated`;
 ALTER TABLE `jb_user_branches` DROP `updated_user_id`;
+
