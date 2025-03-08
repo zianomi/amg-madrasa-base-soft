@@ -50,4 +50,7 @@ return [
     , "class_id" => "Class"
     , "branch_id" => "Branch"
     , "section_id" => "Section"
+    , "branches" => "Branches"
+    , "save" => "Save"
+    , "data_updated" => "Data Updated"
 ];

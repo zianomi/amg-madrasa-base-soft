@@ -16,3 +16,6 @@
 [submodule "amg/bundles/admin"]
 	path = amg/bundles/admin
 	url = https://zianomi@github.com/Amg-Solution/mad-bundles-admin.git
+[submodule "amg/bundles/students"]
+	path = amg/bundles/students
+	url = https://zianomi@github.com/Amg-Solution/mad-soft-bundle-admission.git

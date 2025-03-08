@@ -1,13 +1,17 @@
 <?php
 require dirname(__DIR__) . DIRECTORY_SEPARATOR . "conn" . DIRECTORY_SEPARATOR . "configuration.php";
 
-$branch = isset($_GET['branch']) ? $tool->GetExplodedInt($_GET['branch']) : "";
 $amgBundle = ((isset($_GET['menu'])) && (Tools::alpha($_GET['menu']))) ? $_GET['menu'] : "";
-$amgPhpFile = ((isset($_GET['page'])) && (Tools::alpha($_GET['page']))) ? $_GET['page'] : "";
+$amgPhpFile = ((isset($_GET['page'])) && (Tools::alphaMinus($_GET['page']))) ? $_GET['page'] : "";
 $amgPassedcode = ((isset($_GET['code'])) && (Tools::numeric($_GET['code']))) ? $_GET['code'] : "";
 $amgAction = ((isset($_GET['action'])) && (Tools::alpha($_GET['action']))) ? $_GET['action'] : "";
 $lang = $_SESSION['lang'] ?? "en";
 $transFile = require_once TRANSLATIONS . '/' . $lang . '.php';
+
+$branch = isset($_GET['branch']) ? $tool->GetExplodedInt($_GET['branch']) : '';
+$branchName = isset($_GET['branch']) ? $tool->GetExplodedVar($_GET['branch']) : '';
+$session = isset($_GET['session']) ? $tool->GetExplodedInt($_GET['session']) : '';
+$errors = array();
 
 Tools::setLang($lang);
 Tools::setDirectionAuto();
@@ -60,15 +64,14 @@ if(!empty($amgBundle) && !empty($amgPhpFile)){
 
 
 
-            if(empty($currentPage) || count($currentPage)<1){
+            if((empty($currentPage) || count($currentPage)<1) && !Tools::isDev()){
                 $tpl->setErrorCode(403);
                 $tpl->renderError();
-                exit;
             }
             else{
                 include_once $phpfileToInclude;
-                exit;
             }
+            exit;
 
         }
         else{
